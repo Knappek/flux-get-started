@@ -1,0 +1,1 @@
+{"jobID":"d80a6f99-a5e5-59e1-dfd7-cecca4a6bc53","spec":{"type":"policy","cause":{"Message":"","User":"andy.knapp.ak@gmail.com"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"","locked_user":"andy.knapp.ak@gmail.com"},"remove":{}}}},"result":null}
